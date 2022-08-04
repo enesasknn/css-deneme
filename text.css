@@ -1,0 +1,42 @@
+h2{
+    text-align: center;
+}
+#par1{
+    color: blue;
+    text-align: center;
+    text-transform: capitalize;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    column-count: 3;
+    column-rule: 3 solid blue;
+}
+#par2{
+    color: rgba(255, 0, 0, 1);
+    text-align: right;
+    text-transform: lowercase;
+    direction: rtl ;
+    text-shadow: 3px 3px 5px red ;
+}
+#par3{
+    color: #3f16c5;
+    text-align: justify5;
+    text-decoration: line-through dashed 5px red ;
+}
+#par4{
+    color: hsl(0, 100%, 50%);
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-indent: 2rem;
+    letter-spacing: 10px;
+    line-height: 1rem;    
+}
+#par5{
+  
+    /* text-transform: uppercase; */
+    
+    
+}
+#span1{
+    color: fuchsia;
+    text-decoration: overline wavy blue;
+}
